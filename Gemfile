@@ -8,12 +8,15 @@ gem 'pg'
 gem 'sinatra'
 gem 'sinatra-contrib'
 
+
 gem 'activesupport', '~>4.1'
 gem 'activerecord', '~>4.1'
 
 gem 'rake'
-
 gem 'shotgun'
+
+# Parsing XML
+gem 'nokogiri'
 
 group :test do
   gem 'shoulda-matchers'

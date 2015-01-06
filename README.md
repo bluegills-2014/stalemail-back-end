@@ -1,5 +1,6 @@
 > **Note**: This branch (master) contains a skeleton without any app code, perfect for creating a _new_ application or challenge. If you're looking for an example app built with this skeleton, take a look at the [example](/../..//tree/example) branch which includes basic CRUD and RSpec tests.
-
+philipp@stalemail.com
+API token: 06ac86a96e3d4cbb9eb74343f03fdc67
 ### Purpose
 The Sinatra Skeleton:
 
